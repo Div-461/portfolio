@@ -65,7 +65,7 @@ const Portfolio = () => {
               <div className="flex items-center justify-center">
                  <a href={href}
                  target="_blank"
-                 rel="noreferrer" className="w-1/2 px-6 py-1 m-1 duration-200 hover:scale-105 items-center text-sm">
+                 rel="noreferrer" className="w-1/2 px-1 py-1 m-1 duration-200 hover:scale-105 items-center text-sm">
                  {name}
                 </a>
               </div>
