@@ -15,20 +15,20 @@ const About = () => {
 
 
         <p className="text-sm font-serif text-gray-500">
-  Hello! My name is Divyank , and I am an aspiring Full Stack Devloper. Welcome to my portfolio, where I showcase my skills, passion, and dedication as a fresh talent in the industry.
+  Hello! My self Divyank and I am an aspiring Full Stack Devloper. Welcome to my portfolio, where I have showcased my skills, passion and dedication as a fresh talent in the industry.
     <br/>
     <br/>
-Currently i'm pursuing my Masters in Computer Application, I am excited to embark on my professional journey and contribute my unique perspective and fresh ideas to the field. I am a firm believer in lifelong learning, and I constantly strive to expand my knowledge and stay updated with the latest industry trends.
+Currently I'm pursuing my Masters in Computer Application, I am excited to embark on my professional journey and contribute my unique perspective and fresh ideas to the field. I am a firm believer in lifelong learning and I constantly strive to expand my knowledge and stay updated with the latest industry trends.
 
 Throughout my academic journey, I have developed a strong foundation in Java, ASP.Net MVC,ReactJs and Many more. 
 <br/>
 <br/>
-While I may be a fresher in the industry, I am highly motivated and eager to gain practical experience. I am a quick learner, adaptable to new environments, and thrive in collaborative settings where I can contribute and learn from others.
+While I may be a fresher in the industry, I am highly motivated and eager to gain practical experience. I am a quick learner, adaptable to new environments and thrive in collaborative settings where I can contribute and learn from others.
 
-Beyond my technical skills, I possess excellent communication and interpersonal abilities. I believe in effective teamwork and maintaining open lines of communication, as I understand the value of collaboration in achieving successful outcomes. 
+Beyond my technical skills, I possess excellent communication and interpersonal abilities. I believe in effective teamwork and maintaining open lines of communication as I have understood the value of collaboration in achieving successful outcomes. 
 <br/>
 <br/>
-Thank you for visiting my portfolio and taking the time to learn more about me. I am excited about the opportunities that lie ahead, and I look forward to connecting with like-minded individuals, mentors, and potential employers who share my passion and vision for the industry. Together, we can create something remarkable and make a positive impact.
+Thank you for visiting my portfolio and taking the time to khnow more about me. I am excited about the opportunities that lie ahead and I look forward to connect with like-minded individuals, mentors and potential employers who share my passion and vision for the industry. Together, we can create something remarkable and make a positive impact.
 
 <br/>
 <br/>
