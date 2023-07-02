@@ -16,7 +16,7 @@ const Home = () => {
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
             Currently, I love to work on web application using technologies like
-            ReactJS, Java, ASP.NET MVC etc.
+            Java, ASP.NET MVC, ReactJS and many More.
           </p>
 
           <div>
